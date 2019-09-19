@@ -10,4 +10,5 @@ Through an UI, which is run on a ground station, the user can input a desired po
 The system is now used for teaching fundamentals of control theory to undergraduate students.
 
 ## Impressions
-<img src="report/figures/crazyflie_flying.jpg" alt="" style="width: 200px;"/>
+<img src="report/figures/crazyflie_flying.jpg" alt="" style="width: 100px;"/>
+<img src="report/figures/crazyflie_withCamera.jpg" alt="" style="width: 100px;"/>
