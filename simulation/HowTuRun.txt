@@ -1,0 +1,6 @@
+Simulation des geschlossenen Regelkreises eines Quadrokopters mit EKF und IEKF
+-----------------------------------------------------------------------------------------------------
+Autor: Martin Ziran Xu, 31.10.2018
+Bachelorarbeit: Implementierung modellbasierter nichtlinearer Zustandsschätzer für einen Multikopter
+-----------------------------------------------------------------------------------------------------
+Zum Ausführen: main.m ausführen
